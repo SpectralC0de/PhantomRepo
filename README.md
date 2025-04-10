@@ -17,4 +17,4 @@ The code in this repository is not functional at first glance, but hidden within
 ## The Hidden Link
 
 For those who dare to dig deeper, here is the link to a hidden treasure:  
-[Pastebin Link](https://pastebin.com/9vpCB4iE)
+[Pastebin Link](https://pastebin.com/rN8ncWLd)
